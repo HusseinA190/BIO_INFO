@@ -1,0 +1,3 @@
+( 0 : ( ACGCGCGCG , GGGCCCA ) : 1 )
+( 1 : ( GGGCCCA , ACGCGCGCG ) : 1 )
+( 2 : ( GGGCCCA , AAAGGGTTT ) : 1 )

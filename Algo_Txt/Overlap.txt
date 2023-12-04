@@ -1,0 +1,1 @@
+( Seq1 : ACGCGCGC , Seq2 : AGGCGA , Overlap-Count : 0 )
